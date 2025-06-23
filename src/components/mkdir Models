@@ -1,0 +1,2 @@
+mkdir Models
+ni Models\Person.cs –ItemType File
